@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "06-class"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "d:\\ProgramData\\Anaconda3\\python.exe"
+}
